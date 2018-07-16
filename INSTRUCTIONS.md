@@ -10,3 +10,5 @@
 - Efetue o commit e envie as alterações para o branch teste-beta neste repositório remoto
 - Realize o merge do branch teste-beta para o master
 - Efetue o commit e envie a atualização para este repositório
+
+Para participar do Github Classrom acesse [este link](https://classroom.github.com/g/pZXKsrHu).
