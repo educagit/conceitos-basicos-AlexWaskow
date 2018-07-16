@@ -2,6 +2,7 @@
 
 ## Instruções para esta tarefa:
 
+- Aceitar o convite da tarefa no Github Classrom [neste link](https://classroom.github.com/a/ncwxO--U).
 - Criar 3 arquivos: codigo.txt, codigob.txt e codigoc.txt
 - Efetuar o commit no codigo.txt e no codigob.txt
 - Enviar o commit para este repositório, use mensagens explicativas
@@ -13,5 +14,4 @@
 - Realize o merge do branch teste-beta para o master
 - Efetue o commit e envie a atualização para este repositório
 
-Para participar do Github Classrom acesse [este link](https://classroom.github.com/a/ncwxO--U).
 
